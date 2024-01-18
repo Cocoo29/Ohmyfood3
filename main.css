@@ -622,7 +622,7 @@
     margin-bottom: 92px;
   }
   body #container .menu .card .menu__block .choice .choice__card {
-    width: 100%;
+    width: 98%;
     background-color: white;
     border-radius: 30px;
     margin-top: 20px;
@@ -630,7 +630,7 @@
     position: relative;
   }
   body #container .menu .card .menu__block .choice .choice__card:hover {
-    background-color: #e0e0e0;
+    background-color: #faf7f7;
   }
   body #container .menu .card .menu__block .choice .choice__card .choice__card__txt {
     display: flex;
@@ -677,11 +677,11 @@
     font-size: 1.3rem;
     align-items: center;
     border-radius: 0 2rem 2rem 0;
-    width: 66px;
+    width: 57px;
     height: 100%;
     margin-left: -1rem;
     position: absolute;
-    left: 95%;
+    left: 94%;
     top: 0;
     transform-origin: right center;
     transform: scaleX(0);
@@ -1233,9 +1233,6 @@
     position: relative;
     left: 61px;
   }
-  body #container .menu .card .menu__block .choice .choice__card:hover {
-    background-color: #e0e0e0;
-  }
   body #container .menu .card .menu__block .choice .choice__card .choice__card__txt {
     display: flex;
     flex-direction: column;
@@ -1286,7 +1283,7 @@
     height: 100%;
     margin-left: -1rem;
     position: absolute;
-    left: 95%;
+    left: 93%;
     top: 0;
     transform-origin: right center;
     transform: scaleX(0);
@@ -1841,7 +1838,7 @@
     left: 99px;
   }
   body #container .menu .card .menu__block .choice .choice__card:hover {
-    background-color: #e0e0e0;
+    background-color: #faf7f7;
   }
   body #container .menu .card .menu__block .choice .choice__card .choice__card__txt {
     display: flex;
@@ -2134,7 +2131,7 @@
     left: 99px;
   }
   body #container .menu .card .menu__block .choice .choice__card:hover {
-    background-color: #e0e0e0;
+    background-color: #faf7f7;
   }
   body #container .menu .card .menu__block .choice .choice__card .choice__card__txt {
     display: flex;
