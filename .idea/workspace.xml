@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97a86655-bcd5-4bf7-8c3b-7f10f07cf822" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/components/_heart.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pages/destockPages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pages/mobilPages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pages/tablettePages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screens/destock1024.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screens/destock1988.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screens/mobil768.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screens/tablette769.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/utils/variable.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_article.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/_article.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_checked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/_checked.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_heart.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_loader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/_loader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_mixin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/utils/_mixin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cssExp/exemple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/francaise.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jay-wennington-N_Y88TWmGwA-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/jay-wennington-N_Y88TWmGwA-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/stil-u2Lp8tXIcjw-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/stil-u2Lp8tXIcjw-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/toa-heftiba-DQKerTsQwi0-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/toa-heftiba-DQKerTsQwi0-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/ohmyfood.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logo/ohmyfood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/ohmyfood@2x.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logo/ohmyfood@2x.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/alaFrancaise.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/alaFrancaise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/deliceDesSens.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/deliceDesSens.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/laNoteEnchante.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/laNoteEnchante.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/paletteDuGout.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/paletteDuGout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/components/_button.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2c6DS6V1PjGpscdXjI8t9PwqzxE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14015.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97a86655-bcd5-4bf7-8c3b-7f10f07cf822" name="Changes" comment="" />
+      <created>1707423132038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707423132038</updated>
+      <workItem from="1707423133214" duration="5339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
