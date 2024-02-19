@@ -1,4 +1,4 @@
-@media screen and (min-width: 769px) and (max-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   //index
   body {
     margin: 0;
@@ -120,14 +120,15 @@
           flex-direction: row !important;
           margin-bottom: 100px;
           margin-right: 80px;
-          margin-left: 76px;
-          width: 76%;
+          margin-left: 21px;
+          width: 87%;
+      
 
           li {
             position: relative;
             padding-right: 18px;
-            width: 38%;
-
+            width: 36%;
+            padding-top: 4%;
 
             .button {
               position: relative;
@@ -175,8 +176,8 @@
 
               i {
                 color: grey;
-                padding-right: 18px;
-                padding-left: 26px;
+                padding-right: 6px;
+                padding-left: 22px;
                 font-size: 120%;
 
 

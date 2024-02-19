@@ -164,7 +164,7 @@
   body #container .title .head .logo a #imgTitle {
     padding-top: 30px;
     padding-bottom: 4%;
-    width: 50%;
+    width: 55%;
   }
   body #container .title .location-bar {
     background-color: rgba(0, 0, 0, 0.1);
@@ -243,9 +243,10 @@
     overflow: hidden;
   }
   body #container .functionning .function {
-    position: relative;
-    margin-left: -52%;
-    margin-top: 10px;
+    font-size: 1.5em;
+    padding-right: 53%;
+    margin: 10px;
+    display: flex;
   }
   body #container .functionning .functionning__list {
     text-decoration: none;
@@ -481,7 +482,7 @@
     text-decoration: none;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   body {
     margin: 0;
     padding: 0;
@@ -512,16 +513,22 @@
     padding-bottom: 10px;
     width: 67%;
     display: flex;
+    padding-left: 0;
   }
   body #container .menu_prix {
     z-index: -1;
-    width: 100%;
     display: inline-block;
     position: relative;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover; /* Redimensionne l'image pour couvrir entièrement la zone */
+    object-position: center;
   }
   body #container .menu_prix .imgCook {
-    height: 100%;
+    display: block;
     width: 100%;
+    object-fit: cover;
+    object-position: center;
     z-index: -1;
   }
   body #container .container {
@@ -530,7 +537,7 @@
     border-radius: 40px 40px 0 0;
     border: 1px solid white;
     background-color: #f2f2f2;
-    margin-top: -70px;
+    margin-top: -16%;
   }
   body #container .container .container_banner {
     font-weight: bold;
@@ -641,14 +648,15 @@
     font-size: 100%;
     font-weight: bold;
     margin-right: auto;
-    margin-left: 50px;
+    margin-left: 20px;
   }
   body #container .menu .card .menu__block .choice .choice__card .choice__card__txt .choice__card__txt--description {
     font-weight: 300;
     font-size: 100%;
     margin-right: auto;
-    margin-left: 50px;
+    margin-left: 20px; /* Déplace le texte vers la droite */
     margin-top: -15px;
+    transition: max-width 0.5s;
   }
   body #container .menu .card .menu__block .choice .choice__card .prix {
     display: flex;
@@ -703,22 +711,22 @@
     transform: translateX(-80px);
   }
 }
-@media screen and (max-width: 768px) and (max-width: 768px) {
+@media screen and (max-width: 769px) and (max-width: 768px) {
   body #container .menu .card .menu__block .choice .choice__card .select-choix {
     left: 89%;
   }
 }
-@media screen and (max-width: 768px) and (max-width: 768px) {
+@media screen and (max-width: 769px) and (max-width: 768px) {
   body #container .menu .card .menu__block .choice .choice__card .select-choix {
     left: 95%;
   }
 }
-@media screen and (max-width: 768px) and (max-width: 576px) {
+@media screen and (max-width: 769px) and (max-width: 576px) {
   body #container .menu .card .menu__block .choice .choice__card .select-choix {
     left: 92%;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   body #container .menu .button-restaurant {
     display: flex;
     justify-content: center;
@@ -762,7 +770,7 @@
     margin-left: 12px;
   }
 }
-@media screen and (min-width: 769px) and (max-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   body {
     margin: 0;
     padding: 0;
@@ -858,13 +866,14 @@
     flex-direction: row !important;
     margin-bottom: 100px;
     margin-right: 80px;
-    margin-left: 76px;
-    width: 76%;
+    margin-left: 21px;
+    width: 87%;
   }
   body #container .functionning ul li {
     position: relative;
     padding-right: 18px;
-    width: 38%;
+    width: 36%;
+    padding-top: 4%;
   }
   body #container .functionning ul li .button {
     position: relative;
@@ -909,8 +918,8 @@
   }
   body #container .functionning ul li .button i {
     color: grey;
-    padding-right: 18px;
-    padding-left: 26px;
+    padding-right: 6px;
+    padding-left: 22px;
     font-size: 120%;
   }
   body #container .functionning ul li .button i:hover {
