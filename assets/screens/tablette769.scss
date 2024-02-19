@@ -13,12 +13,13 @@
         .head {
           .logo {
             padding-top: 30px;
-            font-size: 80%;
+            width: 102%;
             text-align: center;
 
             #imgTitle {
               margin-bottom: 25px;
               text-align: center;
+              width: 36%;
             }
           }
         }
@@ -42,7 +43,7 @@
 
             h1 {
               margin-left: 45px;
-              font-size: 90%;
+              font-size: 100%;
             }
           }
         }
@@ -105,12 +106,11 @@
       }
 
       .functionning {
+        position: relative;
         h2 {
-          font-size: 150%;
-          margin-right: 75%;
-          padding-bottom: 41px;
-          padding-top: 25px;
-
+         position: relative;
+         right: 36%;
+      
         }
 
         ul {
@@ -126,7 +126,7 @@
           li {
             position: relative;
             padding-right: 18px;
-          
+            width: 38%;
 
 
             .button {
@@ -198,9 +198,10 @@
         .restaurants_title {
           
           font-size: 150%;
-          margin-right: 80%;
-          padding-bottom: 11px;
+          margin-right: 77%;
+          padding-bottom: 21px;
           padding-top: 17px;
+          font-weight: bold;
 
           h2 {
          
@@ -212,6 +213,7 @@
           flex-wrap: wrap;
           justify-content: space-evenly;
           width: 100%;
+          margin: 0;
 
           .restaurants__card {
             box-sizing: border-box;

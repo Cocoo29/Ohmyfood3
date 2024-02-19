@@ -31,13 +31,12 @@
         }
 
         .logo {
-          margin-left: 30%;
+          margin-left: 20%;
           a {
             #imgTitle {
               padding-top: 20px;
               padding-bottom: 10px;
-             
-              width: 57%;
+              width: 67%;
               display: flex;
 
             }
@@ -52,7 +51,7 @@
         position: relative;
 
         .imgCook {
-          height: 400px;
+          height: 100%;
           width: 100%;
           z-index: -1;
         }
@@ -74,13 +73,13 @@
           text-align: center;
           display: flex;
           align-items: center;
-          padding-left: 57px;
+          padding-left: 39px;
 
           h2 {
             font-style: italic;
             font-weight: 400;
             font-family: 'Shrikhand', cursive;
-            font-size: 180%;
+            font-size: 170%;
           }
 
           .layout-star {
